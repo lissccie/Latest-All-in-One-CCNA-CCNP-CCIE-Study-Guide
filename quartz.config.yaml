@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Eric's NetLab
-  pageTitleSuffix: ""
+  pageTitle: Cisco Cert Blueprint
+  pageTitleSuffix: "-笔记"
   enableSPA: true
   enablePopovers: true
   analytics:
