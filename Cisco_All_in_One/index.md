@@ -1,5 +1,5 @@
 ---
-title: '# <span style="color:#049FD9;">Latest-All-in-One-CCNA-CCNP-CCIE-Study-Guide</span>'
+title: Cisco Certification Blueprint
 ---
 
 # <span style="color:#049FD9;">Latest-All-in-One-CCNA-CCNP-CCIE-Study-Guide</span>
