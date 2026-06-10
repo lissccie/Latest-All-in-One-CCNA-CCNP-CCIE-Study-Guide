@@ -212,10 +212,20 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: lissccie/Latest-All-in-One-CCNA-CCNP-CCIE-Study-Guide
+        repoId: R_kgDOS1MTrA
+        category: General
+        categoryId: DIC_kwDOS1MTrM4CidZ-
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        inputPosition: bottom
+        theme: preferred_color_scheme
+        language: en
     layout:
       position: afterBody
       priority: 10
@@ -295,16 +305,3 @@ layout:
         right: []
     canvas: {}
     bases: {}
-comments:
-  provider: giscus
-  options:
-    repo: lissccie/Latest-All-in-One-CCNA-CCNP-CCIE-Study-Guide
-    repoId: R_kgDOS1MTrA
-    category: General
-    categoryId: DIC_kwDOS1MTrM4CidZ-
-    mapping: pathname
-    strict: false
-    reactionsEnabled: true
-    inputPosition: bottom
-    theme: preferred_color_scheme
-    language: en
