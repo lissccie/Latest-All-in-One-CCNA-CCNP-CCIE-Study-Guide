@@ -45,7 +45,7 @@ Whether you are just starting with networking fundamentals or preparing for your
 
 ## 👨‍💻 About
 
-This repository is maintained by a Senior Network Engineer (CCIE #22479) currently refreshing and documenting the latest Enterprise Infrastructure tracks. The goal is to build an open, highly organized digital garden for network professionals. 
+This repository is maintained by Eric Li, a Senior Network Engineer (CCIE #22479), currently refreshing and documenting the latest Enterprise Infrastructure tracks. The goal is to build an open, highly organized digital garden for network professionals. 
 
 > *"Mastering networking is about understanding the packets, not just memorizing the syntax."*
 
